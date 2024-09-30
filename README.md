@@ -1,5 +1,8 @@
+
 # 🚴‍♀️ **Bike Sales Dashboard** 🚴‍♂️  
 **_Unlock Insights from Your Data!_**
+
+![Dashboard Overview](Dashboard.png)
 
 ---
 
@@ -82,6 +85,3 @@ With this dashboard, you have the power to dig as deep as you need! 🌍📈
 
 Unlock the hidden patterns in your bike sales data with the **Bike Sales Dashboard**. Start exploring today and transform your data into valuable insights!
 
----
-
-Feel free to adjust the language or tone as needed, but this version keeps it lively and engaging while still providing all the necessary details!
