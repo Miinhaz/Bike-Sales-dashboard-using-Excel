@@ -2,7 +2,7 @@
 # 🚴‍♀️ **Bike Sales Dashboard** 🚴‍♂️  
 **_Unlock Insights from Your Data!_**
 
-![Dashboard Overview](Dashboard.png)
+![Dashboard Overview](Dashboard2.png)
 
 ---
 
